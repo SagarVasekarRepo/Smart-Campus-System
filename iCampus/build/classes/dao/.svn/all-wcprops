@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/iCampus/build/classes/dao
+END
+DaoHostel.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/iCampus/build/classes/dao/DaoHostel.class
+END
+DaoMess.class
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/12/trunk/iCampus/build/classes/dao/DaoMess.class
+END
+DaoSecurity.class
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/iCampus/build/classes/dao/DaoSecurity.class
+END
+MysqlConnect.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/iCampus/build/classes/dao/MysqlConnect.class
+END

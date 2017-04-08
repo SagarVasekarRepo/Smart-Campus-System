@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/iCampus/build/classes/action
+END
+SecurityStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityStaffInsert.class
+END
+ArjunMessStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ArjunMessStaffInsert.class
+END
+SitCanteenStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitCanteenStaffUpdate.class
+END
+SahyadriRoomInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriRoomInsert.class
+END
+SitMenuUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitMenuUpdate.class
+END
+ShivneriContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriContactInsert.class
+END
+HostelFetchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/HostelFetchOperation.class
+END
+KalyaniMessStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/KalyaniMessStaffInsert.class
+END
+DevgiriRoomUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriRoomUpdate.class
+END
+SahdevMessStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahdevMessStaffUpdate.class
+END
+SibacaStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaStaffInsert.class
+END
+SahyadriStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriStaffUpdate.class
+END
+SibacaMenuInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaMenuInsert.class
+END
+StesContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesContactUpdate.class
+END
+ArjunMessStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ArjunMessStaffUpdate.class
+END
+SecurityStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityStaffUpdate.class
+END
+DevgiriStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriStaffInsert.class
+END
+HostelDeleteOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/HostelDeleteOperation.class
+END
+SahdevMessContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahdevMessContactInsert.class
+END
+SahyadriRoomUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriRoomUpdate.class
+END
+SahyadriContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriContactInsert.class
+END
+ShivneriContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriContactUpdate.class
+END
+KalyaniMessStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/KalyaniMessStaffUpdate.class
+END
+SibacaCanteenStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaCanteenStaffUpdate.class
+END
+SitStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitStaffInsert.class
+END
+ArjunMessContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ArjunMessContactInsert.class
+END
+SecurityContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityContactInsert.class
+END
+ShivneriRoomInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriRoomInsert.class
+END
+SibacaMenuUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaMenuUpdate.class
+END
+MessDeleteOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/MessDeleteOperation.class
+END
+SecurityDeleteOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityDeleteOperation.class
+END
+DevgiriStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriStaffUpdate.class
+END
+SahdevMessContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahdevMessContactUpdate.class
+END
+KalyaniMessContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/KalyaniMessContactInsert.class
+END
+CanteenDeleteOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/CanteenDeleteOperation.class
+END
+SibacaContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaContactInsert.class
+END
+SahyadriContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriContactUpdate.class
+END
+SecurityContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityContactUpdate.class
+END
+ArjunMessContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ArjunMessContactUpdate.class
+END
+StesStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesStaffInsert.class
+END
+ShivneriRoomUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriRoomUpdate.class
+END
+StesMenuInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesMenuInsert.class
+END
+DevgiriContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriContactInsert.class
+END
+KalyaniMessContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/KalyaniMessContactUpdate.class
+END
+ShivneriStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriStaffInsert.class
+END
+SitContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitContactInsert.class
+END
+SibacaContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SibacaContactUpdate.class
+END
+MessFetchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/MessFetchOperation.class
+END
+SecurityFetchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SecurityFetchOperation.class
+END
+StesCanteenStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesCanteenStaffUpdate.class
+END
+StesMenuUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesMenuUpdate.class
+END
+CanteenFetchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/CanteenFetchOperation.class
+END
+DevgiriContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriContactUpdate.class
+END
+SitMenuInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitMenuInsert.class
+END
+DevgiriRoomInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/DevgiriRoomInsert.class
+END
+SahdevMessStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahdevMessStaffInsert.class
+END
+SahyadriStaffInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SahyadriStaffInsert.class
+END
+ShivneriStaffUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/ShivneriStaffUpdate.class
+END
+SitContactUpdate.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/SitContactUpdate.class
+END
+StesContactInsert.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/iCampus/build/classes/action/StesContactInsert.class
+END

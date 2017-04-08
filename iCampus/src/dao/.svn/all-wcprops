@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/iCampus/src/dao
+END
+MysqlConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/12/trunk/iCampus/src/dao/MysqlConnect.java
+END
+DaoHostel.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/12/trunk/iCampus/src/dao/DaoHostel.java
+END
+DaoSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/iCampus/src/dao/DaoSecurity.java
+END
+DaoMess.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/12/trunk/iCampus/src/dao/DaoMess.java
+END
